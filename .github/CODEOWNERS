@@ -1,0 +1,5 @@
+# 리뷰·머지 승인은 DevTeam 이 한다. PR 이 열리면 팀에 리뷰 요청이 자동으로 간다.
+* @git-artinus/devteam
+
+# 이 파일 자체. 없으면 리뷰어 지정을 DevTeam 승인만으로 바꿀 수 있다.
+/.github/CODEOWNERS @clark-dev-ats
